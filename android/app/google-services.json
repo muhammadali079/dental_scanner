@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077288669503",
+    "project_id": "dental-scanner-7fd76",
+    "storage_bucket": "dental-scanner-7fd76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077288669503:android:fde68ad99d5390e50ec38a",
+        "android_client_info": {
+          "package_name": "com.example.dental_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz4AvfrbRtc7AUtXmQw6UoVE3oDnlGfQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
